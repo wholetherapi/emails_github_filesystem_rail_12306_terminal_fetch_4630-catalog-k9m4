@@ -9,7 +9,7 @@ hosturl: https://cindervale.example/meridian
 docsurl: https://docs.cindervale.example/meridian
 signupurl: https://cindervale.example/meridian/register
 toolkit_ref: fnkit-meridian
-repo_url: https://github.com/wholetherapi/emails_github_filesystem_rail_12306_terminal_fetch_4630-toolkits-k9m4/tree/main/toolkits/fnkit-meridian
+repo_url: https://github.com/oldvendor-labs/meridian-depth-kit
 ---
 
 # Meridian Depth Kit
