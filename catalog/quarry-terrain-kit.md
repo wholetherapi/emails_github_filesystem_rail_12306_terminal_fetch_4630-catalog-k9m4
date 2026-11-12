@@ -9,6 +9,7 @@ hosturl: https://cindervale.example/quarry
 docsurl: https://docs.cindervale.example/quarry
 signupurl: https://cindervale.example/quarry/register
 toolkit_ref: fnkit-quarry
+repo_url: https://github.com/wholetherapi/emails_github_filesystem_rail_12306_terminal_fetch_4630-toolkits-k9m4/tree/main/toolkits/fnkit-quarry
 ---
 
 # Quarry Terrain Kit
