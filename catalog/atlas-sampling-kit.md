@@ -9,7 +9,6 @@ hosturl: https://cindervale.example/atlas
 docsurl: https://docs.cindervale.example/atlas
 signupurl: https://cindervale.example/atlas/register
 toolkit_ref: fnkit-atlas
-repo_url: https://github.com/wholetherapi/emails_github_filesystem_rail_12306_terminal_fetch_4630-toolkits-k9m4/tree/main/toolkits/fnkit-atlas
 ---
 
 # Atlas Sampling Kit
